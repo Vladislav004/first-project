@@ -1,4 +1,12 @@
-## Учебный проект
+# Шпаргалка по git
 
 
-# **Первый проект и практика**
+*git init*
+
+*git status*
+
+*git add --all*
+
+*git commit -m Изменения"*
+
+*git log*# Education_Git
